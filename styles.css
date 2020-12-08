@@ -1,0 +1,45 @@
+body {
+    background-image: url("https://img.freepik.com/free-vector/blue-technology-circuit-diagram-with-glowing-line-lights_1017-17266.jpg?size=626&ext=jpg");
+    background-color: #588bae, rgb(88 139 174);
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    font-family: arial;
+}
+
+#title {
+    padding: 40px 0 5px 0;
+}
+
+#description {
+    font-size: 1.2rem;
+    font-style: italic;
+}
+
+form {
+    background: rgba(88, 139, 200, 0.8);
+    margin: 3% 25%;
+    text-align: left;
+    line-height: 2rem;
+    font-size: 1.2rem;
+    color: #fff;
+}
+
+.container {
+    padding: 5% 10%
+}
+
+.type-choice {
+    color: gray;
+    height: 50px;
+    width: 95%;
+    border: none;
+    font-size: 1.05rem;
+}
+
+#submit {
+    background-color: green;
+    height: 50px;
+    color: #fff;
+    font-size: 1.2rem;
+}
